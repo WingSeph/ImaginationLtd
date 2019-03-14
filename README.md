@@ -1,5 +1,5 @@
-ImaginationLtd
+Imagination Ltd
 
 
 
-Hi everyone
+https://wingseph.github.io/ImaginationLtd/
